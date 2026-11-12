@@ -14,7 +14,7 @@ describe('Flujo 3.3 - Formulario de contacto', () => {
   });
 
   // TC-014: este test FALLA por el BUG-11 (el sitio acepta un mail sin @ y confirma el envio).
-  // Esta escrito con el comportamiento ESPERADO, por eso falla: es correcto y esta documentado.
+  
     it('muestra error de formato con un mail invalido (TC-014, falla por BUG-11)', function () {
     cy.fillContactForm(this.contact, { email: this.contact.emailInvalido });
     cy.get(sel.contact.submit).click();
