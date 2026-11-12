@@ -1,0 +1,14 @@
+{
+  "valido": {
+    "email": "customer@practicesoftwaretesting.com",
+    "password": "welcome01"
+  },
+  "invalido": {
+    "email": "customer@practicesoftwaretesting.com",
+    "password": "clave-incorrecta-123"
+  },
+  "noRegistrado": {
+    "email": "noexiste.qa@test.com",
+    "password": "welcome01"
+  }
+}

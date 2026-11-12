@@ -1,0 +1,13 @@
+{
+  "name": "toolshop-cypress-grupo5",
+  "version": "1.0.0",
+  "description": "Challenge final de Cypress - Toolshop (Grupo 5)",
+  "private": true,
+  "scripts": {
+    "cy:open": "cypress open",
+    "cy:run": "cypress run"
+  },
+  "devDependencies": {
+    "cypress": "^16.3.0"
+  }
+}

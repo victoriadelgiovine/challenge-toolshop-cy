@@ -1,0 +1,10 @@
+{
+  "address": "Calle Falsa 123",
+  "city": "Madrid",
+  "state": "Madrid",
+  "country": "Spain",
+  "postcode": "28001",
+  "metodoPago": "Bank Transfer",
+  "nombreCuenta": "Ana Prueba",
+  "numeroCuenta": "123456789"
+}

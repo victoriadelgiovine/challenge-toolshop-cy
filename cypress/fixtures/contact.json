@@ -1,0 +1,8 @@
+{
+  "firstName": "Ana",
+  "lastName": "Prueba",
+  "email": "customer@practicesoftwaretesting.com",
+  "emailInvalido": "customerpracticesoftwaretesting.com",
+  "message": "Este es un mensaje de prueba con mas de cincuenta caracteres para el formulario de contacto.",
+  "mensajeErrorMail": "E-mail format is invalid"
+}
